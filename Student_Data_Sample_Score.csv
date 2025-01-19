@@ -1,0 +1,1001 @@
+,Student_ID,Math_Score,English_Score,Science_Score,Absences,Issues,Social_Behavior,Score_Str
+0,S0001,100,100,100,0,0,positive,Ideal Model
+1,S0002,78,65,54,13,3,average,Needs Follow-up
+2,S0003,63,91,68,13,5,negative,Needs Follow-up
+3,S0004,83,40,78,13,4,average,Needs Follow-up
+4,S0005,47,66,48,13,4,average,Needs Follow-up
+5,S0006,54,47,51,8,5,negative,Needs Follow-up
+6,S0007,41,61,50,17,5,negative,Needs Follow-up
+7,S0008,68,43,49,1,4,negative,Needs Follow-up
+8,S0009,70,53,69,12,5,negative,Needs Follow-up
+9,S0010,70,60,62,4,4,negative,Needs Follow-up
+10,S0011,88,81,85,6,1,average,Balanced
+11,S0012,42,72,50,8,0,negative,Needs Follow-up
+12,S0013,43,62,53,0,1,average,Needs Follow-up
+13,S0014,69,71,80,17,2,average,Needs Follow-up
+14,S0015,51,60,73,6,0,positive,Balanced
+15,S0016,41,94,41,2,0,average,Balanced
+16,S0017,42,61,49,17,1,average,Needs Follow-up
+17,S0018,91,99,59,5,0,average,Balanced
+18,S0019,61,99,100,19,1,negative,Balanced
+19,S0020,87,70,53,19,3,positive,Needs Follow-up
+20,S0021,100,98,80,15,3,negative,Balanced
+21,S0022,97,66,61,2,0,average,Balanced
+22,S0023,44,61,56,19,2,negative,Needs Follow-up
+23,S0024,52,56,53,8,2,average,Needs Follow-up
+24,S0025,44,99,98,14,4,positive,Balanced
+25,S0026,49,48,82,20,0,negative,Needs Follow-up
+26,S0027,77,44,51,13,5,positive,Needs Follow-up
+27,S0028,90,71,92,18,5,negative,Needs Follow-up
+28,S0029,78,75,50,14,4,average,Needs Follow-up
+29,S0030,71,64,58,0,4,negative,Needs Follow-up
+30,S0031,68,53,49,8,5,positive,Needs Follow-up
+31,S0032,40,96,55,2,4,negative,Needs Follow-up
+32,S0033,88,40,98,11,2,positive,Balanced
+33,S0034,48,77,55,13,5,average,Needs Follow-up
+34,S0035,63,74,76,19,2,average,Needs Follow-up
+35,S0036,54,48,42,2,3,negative,Needs Follow-up
+36,S0037,44,48,96,8,2,average,Needs Follow-up
+37,S0038,94,88,57,2,2,negative,Balanced
+38,S0039,81,94,60,11,0,average,Balanced
+39,S0040,74,74,75,18,0,positive,Balanced
+40,S0041,44,51,65,6,1,negative,Needs Follow-up
+41,S0042,54,86,43,5,0,negative,Needs Follow-up
+42,S0043,62,100,60,12,5,positive,Balanced
+43,S0044,97,95,68,19,3,average,Balanced
+44,S0045,77,50,53,5,1,negative,Needs Follow-up
+45,S0046,48,79,94,0,3,positive,Balanced
+46,S0047,58,90,90,8,3,positive,Balanced
+47,S0048,82,86,99,18,0,positive,Ideal Model
+48,S0049,66,59,80,17,3,average,Needs Follow-up
+49,S0050,59,62,69,15,2,average,Needs Follow-up
+50,S0051,74,49,43,14,2,negative,Needs Follow-up
+51,S0052,75,42,64,3,1,average,Needs Follow-up
+52,S0053,70,63,87,16,3,average,Needs Follow-up
+53,S0054,100,93,66,17,2,negative,Balanced
+54,S0055,79,72,84,14,3,negative,Needs Follow-up
+55,S0056,93,49,99,7,0,positive,Ideal Model
+56,S0057,63,75,69,14,0,negative,Needs Follow-up
+57,S0058,98,70,84,0,0,average,Ideal Model
+58,S0059,59,42,61,1,2,positive,Balanced
+59,S0060,59,90,70,15,1,average,Needs Follow-up
+60,S0061,78,69,84,7,3,average,Balanced
+61,S0062,93,55,96,5,3,negative,Balanced
+62,S0063,49,88,60,15,2,negative,Needs Follow-up
+63,S0064,80,40,72,17,3,negative,Needs Follow-up
+64,S0065,46,81,46,19,2,negative,Needs Follow-up
+65,S0066,50,47,46,14,5,average,Needs Follow-up
+66,S0067,44,86,59,7,5,positive,Needs Follow-up
+67,S0068,43,43,76,7,3,average,Needs Follow-up
+68,S0069,66,98,95,7,5,negative,Balanced
+69,S0070,70,100,78,3,4,negative,Balanced
+70,S0071,62,78,64,14,5,positive,Needs Follow-up
+71,S0072,44,78,77,11,2,average,Needs Follow-up
+72,S0073,57,71,54,9,0,negative,Needs Follow-up
+73,S0074,45,64,68,17,4,average,Needs Follow-up
+74,S0075,78,64,45,11,4,positive,Needs Follow-up
+75,S0076,90,65,55,15,4,positive,Needs Follow-up
+76,S0077,47,42,46,0,5,negative,Needs Follow-up
+77,S0078,77,61,96,19,2,negative,Needs Follow-up
+78,S0079,75,44,51,7,3,positive,Needs Follow-up
+79,S0080,46,68,80,8,4,negative,Needs Follow-up
+80,S0081,53,71,83,4,4,positive,Balanced
+81,S0082,50,76,64,0,0,average,Balanced
+82,S0083,53,97,45,10,5,positive,Needs Follow-up
+83,S0084,73,57,55,17,4,negative,Needs Follow-up
+84,S0085,98,50,40,11,0,negative,Needs Follow-up
+85,S0086,98,64,73,17,3,negative,Needs Follow-up
+86,S0087,58,47,64,5,2,average,Needs Follow-up
+87,S0088,98,90,62,2,1,positive,Ideal Model
+88,S0089,82,85,100,10,0,average,Balanced
+89,S0090,65,94,77,9,5,average,Balanced
+90,S0091,91,58,90,20,0,average,Balanced
+91,S0092,84,68,67,0,5,average,Balanced
+92,S0093,78,57,51,16,0,negative,Needs Follow-up
+93,S0094,88,49,96,2,0,positive,Ideal Model
+94,S0095,70,42,87,13,0,positive,Balanced
+95,S0096,68,87,86,2,0,positive,Ideal Model
+96,S0097,69,86,64,5,0,positive,Ideal Model
+97,S0098,91,43,76,19,0,negative,Needs Follow-up
+98,S0099,85,83,46,14,5,negative,Needs Follow-up
+99,S0100,84,69,98,13,5,average,Balanced
+100,S0101,42,72,82,17,1,positive,Balanced
+101,S0102,75,67,68,16,5,positive,Needs Follow-up
+102,S0103,50,71,100,20,0,average,Balanced
+103,S0104,60,50,100,12,0,average,Balanced
+104,S0105,95,75,73,19,5,negative,Needs Follow-up
+105,S0106,62,42,68,4,1,negative,Needs Follow-up
+106,S0107,69,47,45,20,0,average,Needs Follow-up
+107,S0108,69,82,68,1,0,average,Balanced
+108,S0109,75,49,50,19,1,average,Needs Follow-up
+109,S0110,61,97,52,3,1,negative,Needs Follow-up
+110,S0111,77,79,46,4,5,average,Needs Follow-up
+111,S0112,88,61,82,10,0,negative,Balanced
+112,S0113,78,73,84,8,0,negative,Balanced
+113,S0114,63,91,45,2,5,negative,Needs Follow-up
+114,S0115,57,96,43,18,2,negative,Needs Follow-up
+115,S0116,63,55,63,7,3,average,Needs Follow-up
+116,S0117,94,76,95,2,2,average,Balanced
+117,S0118,86,87,78,14,0,average,Balanced
+118,S0119,57,86,71,4,0,average,Balanced
+119,S0120,50,91,57,4,4,positive,Balanced
+120,S0121,93,59,83,10,0,negative,Balanced
+121,S0122,81,40,54,17,4,negative,Needs Follow-up
+122,S0123,67,48,62,2,2,positive,Balanced
+123,S0124,52,99,55,10,1,average,Needs Follow-up
+124,S0125,93,43,77,8,3,negative,Needs Follow-up
+125,S0126,58,84,48,19,2,positive,Needs Follow-up
+126,S0127,81,80,78,19,1,negative,Needs Follow-up
+127,S0128,48,69,59,15,5,average,Needs Follow-up
+128,S0129,63,49,42,16,1,average,Needs Follow-up
+129,S0130,64,57,82,4,2,average,Balanced
+130,S0131,59,61,97,13,5,positive,Balanced
+131,S0132,81,43,80,20,4,negative,Needs Follow-up
+132,S0133,44,81,65,16,2,positive,Needs Follow-up
+133,S0134,88,81,85,17,1,negative,Balanced
+134,S0135,43,84,95,14,1,negative,Needs Follow-up
+135,S0136,41,98,90,20,4,negative,Needs Follow-up
+136,S0137,42,76,95,6,2,average,Balanced
+137,S0138,73,47,84,1,2,average,Balanced
+138,S0139,90,78,40,13,2,average,Needs Follow-up
+139,S0140,84,58,63,11,0,positive,Balanced
+140,S0141,100,44,66,11,2,average,Needs Follow-up
+141,S0142,91,76,87,3,4,negative,Balanced
+142,S0143,52,83,70,8,1,positive,Balanced
+143,S0144,48,52,43,17,3,negative,Needs Follow-up
+144,S0145,71,70,73,3,0,average,Balanced
+145,S0146,65,63,46,6,5,positive,Needs Follow-up
+146,S0147,86,70,85,6,1,average,Balanced
+147,S0148,97,48,97,8,0,positive,Ideal Model
+148,S0149,99,69,90,15,1,negative,Balanced
+149,S0150,90,61,77,2,1,average,Balanced
+150,S0151,45,62,49,12,5,negative,Needs Follow-up
+151,S0152,66,94,93,7,0,positive,Ideal Model
+152,S0153,94,42,49,12,0,positive,Balanced
+153,S0154,67,71,75,10,4,average,Needs Follow-up
+154,S0155,50,62,64,1,1,positive,Balanced
+155,S0156,82,78,97,14,4,negative,Needs Follow-up
+156,S0157,41,56,71,20,2,positive,Needs Follow-up
+157,S0158,83,84,95,14,4,negative,Needs Follow-up
+158,S0159,51,54,54,5,1,negative,Needs Follow-up
+159,S0160,40,93,50,14,4,negative,Needs Follow-up
+160,S0161,66,77,50,12,1,positive,Needs Follow-up
+161,S0162,63,48,74,5,3,positive,Balanced
+162,S0163,95,80,80,15,3,positive,Balanced
+163,S0164,98,82,42,14,2,average,Needs Follow-up
+164,S0165,46,67,100,19,4,negative,Needs Follow-up
+165,S0166,78,87,75,4,2,negative,Balanced
+166,S0167,47,45,70,5,1,average,Needs Follow-up
+167,S0168,56,80,40,1,4,positive,Balanced
+168,S0169,96,57,72,17,0,negative,Needs Follow-up
+169,S0170,62,49,71,16,4,average,Needs Follow-up
+170,S0171,81,78,88,8,4,positive,Balanced
+171,S0172,50,68,74,11,4,negative,Needs Follow-up
+172,S0173,99,91,66,16,1,negative,Needs Follow-up
+173,S0174,47,41,70,9,3,negative,Needs Follow-up
+174,S0175,58,47,66,5,0,negative,Needs Follow-up
+175,S0176,69,50,72,20,2,average,Needs Follow-up
+176,S0177,76,66,91,17,3,positive,Balanced
+177,S0178,54,63,100,17,3,negative,Needs Follow-up
+178,S0179,70,72,73,5,5,average,Balanced
+179,S0180,74,58,74,8,5,average,Needs Follow-up
+180,S0181,48,87,40,6,5,positive,Needs Follow-up
+181,S0182,85,46,92,15,0,average,Balanced
+182,S0183,99,41,53,3,3,positive,Balanced
+183,S0184,64,57,57,14,2,negative,Needs Follow-up
+184,S0185,69,99,55,17,5,negative,Needs Follow-up
+185,S0186,61,79,45,14,1,negative,Needs Follow-up
+186,S0187,85,95,71,9,0,average,Balanced
+187,S0188,84,80,71,20,5,positive,Balanced
+188,S0189,48,66,55,1,4,average,Needs Follow-up
+189,S0190,74,91,60,19,4,average,Needs Follow-up
+190,S0191,99,84,65,11,5,positive,Balanced
+191,S0192,98,73,59,12,3,positive,Balanced
+192,S0193,98,40,52,9,3,negative,Needs Follow-up
+193,S0194,47,72,70,12,2,negative,Needs Follow-up
+194,S0195,95,98,80,5,1,average,Balanced
+195,S0196,55,67,52,4,3,negative,Needs Follow-up
+196,S0197,60,52,71,4,0,negative,Balanced
+197,S0198,85,67,75,7,4,average,Needs Follow-up
+198,S0199,49,57,48,7,2,average,Needs Follow-up
+199,S0200,83,48,71,19,2,positive,Balanced
+200,S0201,48,54,55,9,3,negative,Needs Follow-up
+201,S0202,85,44,62,17,3,positive,Needs Follow-up
+202,S0203,91,42,52,3,4,positive,Balanced
+203,S0204,91,74,53,12,1,positive,Balanced
+204,S0205,56,55,63,9,4,average,Needs Follow-up
+205,S0206,98,76,97,16,4,negative,Balanced
+206,S0207,65,85,88,0,1,positive,Ideal Model
+207,S0208,44,90,45,20,0,average,Needs Follow-up
+208,S0209,68,92,98,10,5,negative,Balanced
+209,S0210,52,76,48,3,3,negative,Needs Follow-up
+210,S0211,42,80,91,17,0,positive,Balanced
+211,S0212,55,67,78,9,3,positive,Balanced
+212,S0213,84,65,76,0,3,negative,Balanced
+213,S0214,100,66,41,18,5,average,Needs Follow-up
+214,S0215,57,56,74,1,5,positive,Balanced
+215,S0216,78,41,80,1,4,positive,Balanced
+216,S0217,96,46,95,2,1,negative,Balanced
+217,S0218,65,82,96,9,5,average,Balanced
+218,S0219,64,46,66,18,1,negative,Needs Follow-up
+219,S0220,58,89,65,14,4,average,Needs Follow-up
+220,S0221,89,67,83,15,1,negative,Needs Follow-up
+221,S0222,64,50,51,17,1,negative,Needs Follow-up
+222,S0223,65,100,76,2,1,positive,Ideal Model
+223,S0224,64,79,88,12,3,negative,Needs Follow-up
+224,S0225,62,87,65,10,0,negative,Balanced
+225,S0226,74,61,63,9,4,negative,Needs Follow-up
+226,S0227,55,100,48,9,5,average,Needs Follow-up
+227,S0228,81,69,42,3,3,average,Needs Follow-up
+228,S0229,44,70,60,20,0,average,Needs Follow-up
+229,S0230,87,88,45,4,3,average,Balanced
+230,S0231,46,40,88,7,2,positive,Balanced
+231,S0232,51,53,54,1,1,positive,Balanced
+232,S0233,52,54,97,1,4,positive,Balanced
+233,S0234,46,40,79,15,4,negative,Needs Follow-up
+234,S0235,67,79,73,12,1,average,Needs Follow-up
+235,S0236,53,84,48,13,0,positive,Balanced
+236,S0237,63,70,83,3,5,average,Balanced
+237,S0238,47,65,45,14,1,positive,Needs Follow-up
+238,S0239,71,89,59,10,5,negative,Needs Follow-up
+239,S0240,54,51,75,9,2,positive,Balanced
+240,S0241,99,79,51,14,3,average,Needs Follow-up
+241,S0242,57,64,49,18,5,negative,Needs Follow-up
+242,S0243,66,85,86,6,0,negative,Balanced
+243,S0244,91,94,94,18,3,positive,Balanced
+244,S0245,75,43,100,19,5,average,Needs Follow-up
+245,S0246,80,90,47,2,3,average,Balanced
+246,S0247,94,81,69,6,4,average,Balanced
+247,S0248,44,71,58,4,0,negative,Needs Follow-up
+248,S0249,40,84,75,0,1,positive,Balanced
+249,S0250,89,98,92,6,5,average,Balanced
+250,S0251,64,90,68,4,2,average,Balanced
+251,S0252,52,89,97,7,5,negative,Needs Follow-up
+252,S0253,89,76,70,0,1,average,Balanced
+253,S0254,42,76,52,15,0,positive,Balanced
+254,S0255,98,85,51,1,3,positive,Balanced
+255,S0256,80,48,89,3,0,positive,Ideal Model
+256,S0257,65,99,75,19,3,average,Needs Follow-up
+257,S0258,49,50,76,9,4,average,Needs Follow-up
+258,S0259,82,87,57,15,5,negative,Needs Follow-up
+259,S0260,43,71,70,17,1,average,Needs Follow-up
+260,S0261,84,94,62,6,1,average,Balanced
+261,S0262,74,63,90,1,1,average,Balanced
+262,S0263,88,53,54,19,0,average,Needs Follow-up
+263,S0264,68,99,61,12,0,negative,Needs Follow-up
+264,S0265,61,71,48,17,5,negative,Needs Follow-up
+265,S0266,63,51,80,3,1,average,Balanced
+266,S0267,77,48,78,10,2,negative,Needs Follow-up
+267,S0268,71,54,96,10,1,average,Balanced
+268,S0269,53,53,89,8,0,negative,Needs Follow-up
+269,S0270,80,61,79,6,3,average,Needs Follow-up
+270,S0271,75,42,62,11,3,negative,Needs Follow-up
+271,S0272,85,65,80,8,3,positive,Balanced
+272,S0273,54,46,91,17,2,average,Needs Follow-up
+273,S0274,66,77,86,15,2,average,Balanced
+274,S0275,96,80,50,4,4,average,Balanced
+275,S0276,94,48,77,3,2,negative,Balanced
+276,S0277,65,42,69,1,0,positive,Balanced
+277,S0278,68,90,78,18,5,negative,Needs Follow-up
+278,S0279,40,51,97,2,4,average,Needs Follow-up
+279,S0280,99,56,42,11,3,positive,Needs Follow-up
+280,S0281,44,87,81,7,5,positive,Balanced
+281,S0282,98,70,60,2,2,negative,Balanced
+282,S0283,87,97,90,0,0,average,Ideal Model
+283,S0284,67,59,87,15,3,positive,Balanced
+284,S0285,54,98,68,3,3,negative,Needs Follow-up
+285,S0286,78,93,91,17,4,positive,Balanced
+286,S0287,47,95,74,5,0,negative,Balanced
+287,S0288,42,84,98,7,0,average,Balanced
+288,S0289,94,95,58,9,1,negative,Balanced
+289,S0290,68,73,72,18,3,positive,Balanced
+290,S0291,51,84,86,10,1,negative,Needs Follow-up
+291,S0292,63,62,96,10,0,average,Balanced
+292,S0293,84,63,94,10,5,average,Balanced
+293,S0294,97,62,54,4,0,negative,Balanced
+294,S0295,92,61,79,3,1,positive,Balanced
+295,S0296,88,97,77,6,3,positive,Balanced
+296,S0297,97,64,43,7,3,negative,Needs Follow-up
+297,S0298,94,53,88,20,3,negative,Needs Follow-up
+298,S0299,44,62,85,7,2,average,Needs Follow-up
+299,S0300,73,65,70,16,3,negative,Needs Follow-up
+300,S0301,56,42,68,0,3,average,Needs Follow-up
+301,S0302,67,57,59,12,2,negative,Needs Follow-up
+302,S0303,98,90,69,19,2,positive,Balanced
+303,S0304,78,48,77,6,5,average,Needs Follow-up
+304,S0305,85,86,94,0,2,average,Balanced
+305,S0306,77,68,54,4,2,negative,Needs Follow-up
+306,S0307,51,85,93,15,1,positive,Balanced
+307,S0308,87,89,94,6,0,negative,Balanced
+308,S0309,68,73,73,10,0,negative,Balanced
+309,S0310,51,86,58,20,1,average,Needs Follow-up
+310,S0311,82,74,67,0,2,negative,Balanced
+311,S0312,79,81,86,19,4,negative,Needs Follow-up
+312,S0313,61,53,40,15,5,negative,Needs Follow-up
+313,S0314,78,84,59,5,2,positive,Balanced
+314,S0315,51,77,62,8,2,positive,Balanced
+315,S0316,74,67,59,2,2,average,Balanced
+316,S0317,78,92,49,9,2,average,Balanced
+317,S0318,81,92,91,20,0,negative,Balanced
+318,S0319,72,81,45,12,0,negative,Needs Follow-up
+319,S0320,74,59,45,7,5,positive,Needs Follow-up
+320,S0321,87,84,65,3,3,average,Balanced
+321,S0322,52,51,75,2,2,positive,Balanced
+322,S0323,88,72,55,19,4,negative,Needs Follow-up
+323,S0324,89,64,78,15,3,average,Needs Follow-up
+324,S0325,71,44,58,9,5,average,Needs Follow-up
+325,S0326,74,80,96,18,5,positive,Balanced
+326,S0327,90,64,43,7,5,average,Needs Follow-up
+327,S0328,44,48,72,20,2,average,Needs Follow-up
+328,S0329,62,93,94,18,1,average,Balanced
+329,S0330,60,69,65,8,3,negative,Needs Follow-up
+330,S0331,72,94,46,11,3,negative,Needs Follow-up
+331,S0332,79,98,76,6,2,average,Balanced
+332,S0333,70,94,48,0,3,negative,Needs Follow-up
+333,S0334,71,66,52,20,0,positive,Balanced
+334,S0335,40,66,45,8,4,negative,Needs Follow-up
+335,S0336,95,53,47,14,2,average,Needs Follow-up
+336,S0337,93,80,75,2,3,negative,Balanced
+337,S0338,51,42,79,8,5,negative,Needs Follow-up
+338,S0339,96,100,74,4,0,average,Ideal Model
+339,S0340,47,96,57,3,2,negative,Needs Follow-up
+340,S0341,91,50,60,16,3,positive,Needs Follow-up
+341,S0342,43,60,61,13,5,negative,Needs Follow-up
+342,S0343,51,63,84,16,2,average,Needs Follow-up
+343,S0344,63,55,66,2,2,average,Balanced
+344,S0345,74,65,96,10,4,average,Balanced
+345,S0346,62,45,49,19,3,positive,Needs Follow-up
+346,S0347,60,71,64,18,3,negative,Needs Follow-up
+347,S0348,81,85,52,1,3,positive,Balanced
+348,S0349,70,82,57,1,4,positive,Balanced
+349,S0350,43,41,90,2,4,average,Needs Follow-up
+350,S0351,86,56,43,5,0,average,Balanced
+351,S0352,81,93,82,18,0,positive,Ideal Model
+352,S0353,98,70,75,7,5,negative,Needs Follow-up
+353,S0354,69,67,78,14,4,negative,Needs Follow-up
+354,S0355,61,83,41,2,3,average,Needs Follow-up
+355,S0356,93,66,84,6,1,negative,Balanced
+356,S0357,78,99,40,15,5,negative,Needs Follow-up
+357,S0358,40,65,40,7,0,positive,Needs Follow-up
+358,S0359,82,94,59,11,2,negative,Needs Follow-up
+359,S0360,42,88,83,11,1,positive,Balanced
+360,S0361,82,64,95,8,1,negative,Balanced
+361,S0362,80,67,66,0,4,negative,Needs Follow-up
+362,S0363,96,96,66,4,0,average,Ideal Model
+363,S0364,40,66,82,7,4,negative,Needs Follow-up
+364,S0365,81,54,84,10,1,negative,Needs Follow-up
+365,S0366,51,59,49,9,5,positive,Needs Follow-up
+366,S0367,81,82,99,14,0,positive,Ideal Model
+367,S0368,68,67,75,0,3,average,Balanced
+368,S0369,81,74,86,9,2,positive,Balanced
+369,S0370,94,88,73,0,4,negative,Balanced
+370,S0371,70,53,46,1,2,negative,Needs Follow-up
+371,S0372,92,76,91,18,1,average,Balanced
+372,S0373,69,45,45,20,1,negative,Needs Follow-up
+373,S0374,63,84,81,17,1,negative,Needs Follow-up
+374,S0375,97,94,46,8,2,average,Balanced
+375,S0376,40,80,100,19,2,average,Balanced
+376,S0377,44,55,51,15,4,average,Needs Follow-up
+377,S0378,98,54,48,6,4,negative,Needs Follow-up
+378,S0379,52,99,93,14,0,positive,Balanced
+379,S0380,90,57,59,13,4,positive,Needs Follow-up
+380,S0381,71,53,82,1,3,negative,Needs Follow-up
+381,S0382,56,94,88,18,3,negative,Needs Follow-up
+382,S0383,99,85,87,5,2,positive,Ideal Model
+383,S0384,95,98,69,19,5,average,Balanced
+384,S0385,64,89,87,7,1,average,Balanced
+385,S0386,59,96,61,20,0,average,Balanced
+386,S0387,49,83,57,8,3,average,Needs Follow-up
+387,S0388,53,85,54,1,2,average,Balanced
+388,S0389,50,63,74,8,1,average,Needs Follow-up
+389,S0390,78,56,54,19,5,positive,Needs Follow-up
+390,S0391,87,76,92,12,5,positive,Balanced
+391,S0392,60,58,79,15,5,average,Needs Follow-up
+392,S0393,68,56,60,9,5,negative,Needs Follow-up
+393,S0394,64,56,79,2,1,negative,Needs Follow-up
+394,S0395,99,62,40,6,4,positive,Balanced
+395,S0396,73,52,89,4,1,positive,Balanced
+396,S0397,98,77,78,14,0,average,Balanced
+397,S0398,45,99,90,3,2,average,Balanced
+398,S0399,97,70,59,15,2,negative,Needs Follow-up
+399,S0400,96,84,92,4,3,positive,Ideal Model
+400,S0401,45,69,62,7,4,average,Needs Follow-up
+401,S0402,92,82,66,7,4,positive,Balanced
+402,S0403,43,47,51,18,5,average,Needs Follow-up
+403,S0404,71,80,99,7,2,negative,Balanced
+404,S0405,61,61,92,6,0,positive,Balanced
+405,S0406,44,100,72,6,5,negative,Needs Follow-up
+406,S0407,100,98,43,8,2,negative,Needs Follow-up
+407,S0408,90,75,57,10,1,positive,Balanced
+408,S0409,87,61,83,20,5,average,Needs Follow-up
+409,S0410,62,42,77,3,5,negative,Needs Follow-up
+410,S0411,43,54,87,11,4,average,Needs Follow-up
+411,S0412,49,98,81,20,0,negative,Balanced
+412,S0413,85,67,40,1,2,negative,Needs Follow-up
+413,S0414,87,50,62,1,5,negative,Needs Follow-up
+414,S0415,69,93,86,6,3,positive,Balanced
+415,S0416,96,75,79,3,1,negative,Balanced
+416,S0417,94,69,51,4,5,negative,Needs Follow-up
+417,S0418,58,47,82,1,5,average,Needs Follow-up
+418,S0419,74,76,99,13,1,negative,Balanced
+419,S0420,92,99,83,2,3,negative,Balanced
+420,S0421,93,69,87,19,1,average,Balanced
+421,S0422,90,69,93,17,4,average,Balanced
+422,S0423,76,87,100,8,5,positive,Balanced
+423,S0424,83,92,50,20,2,positive,Balanced
+424,S0425,68,84,97,0,1,positive,Ideal Model
+425,S0426,66,84,45,0,5,average,Needs Follow-up
+426,S0427,72,57,64,13,4,negative,Needs Follow-up
+427,S0428,99,89,87,6,1,positive,Ideal Model
+428,S0429,70,68,46,2,1,positive,Balanced
+429,S0430,75,70,95,15,4,negative,Needs Follow-up
+430,S0431,70,94,65,7,2,negative,Needs Follow-up
+431,S0432,49,54,40,19,5,positive,Needs Follow-up
+432,S0433,86,59,64,20,2,average,Needs Follow-up
+433,S0434,40,100,68,11,1,average,Needs Follow-up
+434,S0435,75,88,67,2,0,average,Balanced
+435,S0436,44,76,51,8,4,negative,Needs Follow-up
+436,S0437,72,95,75,17,0,positive,Balanced
+437,S0438,60,61,43,13,3,positive,Needs Follow-up
+438,S0439,93,55,79,14,2,positive,Balanced
+439,S0440,75,45,61,20,3,positive,Needs Follow-up
+440,S0441,54,69,54,16,3,negative,Needs Follow-up
+441,S0442,91,56,64,18,2,positive,Balanced
+442,S0443,96,56,57,18,5,average,Needs Follow-up
+443,S0444,94,97,96,13,0,positive,Ideal Model
+444,S0445,91,90,49,12,2,average,Needs Follow-up
+445,S0446,60,81,40,14,1,positive,Needs Follow-up
+446,S0447,93,45,94,18,1,positive,Balanced
+447,S0448,84,47,84,4,1,negative,Balanced
+448,S0449,94,69,83,14,4,average,Balanced
+449,S0450,82,95,98,19,2,positive,Balanced
+450,S0451,72,85,65,1,5,average,Balanced
+451,S0452,56,49,81,9,5,positive,Needs Follow-up
+452,S0453,79,81,85,9,1,negative,Balanced
+453,S0454,87,90,49,17,5,positive,Balanced
+454,S0455,41,41,61,8,4,average,Needs Follow-up
+455,S0456,99,76,80,6,2,positive,Balanced
+456,S0457,70,50,75,11,5,average,Needs Follow-up
+457,S0458,42,92,49,12,3,negative,Needs Follow-up
+458,S0459,63,48,68,2,2,positive,Balanced
+459,S0460,78,77,58,10,4,average,Needs Follow-up
+460,S0461,60,57,52,5,0,average,Balanced
+461,S0462,71,63,97,11,3,negative,Needs Follow-up
+462,S0463,70,41,72,17,5,average,Needs Follow-up
+463,S0464,55,43,67,12,2,average,Needs Follow-up
+464,S0465,55,50,80,16,5,negative,Needs Follow-up
+465,S0466,78,88,93,5,3,positive,Ideal Model
+466,S0467,94,67,64,20,5,average,Needs Follow-up
+467,S0468,90,58,93,2,0,positive,Ideal Model
+468,S0469,62,42,96,14,1,average,Needs Follow-up
+469,S0470,69,80,76,12,2,positive,Balanced
+470,S0471,80,83,44,7,1,average,Needs Follow-up
+471,S0472,68,89,70,13,1,negative,Needs Follow-up
+472,S0473,78,88,75,14,5,average,Needs Follow-up
+473,S0474,98,88,43,2,1,average,Balanced
+474,S0475,48,57,98,4,4,average,Balanced
+475,S0476,45,81,46,7,5,positive,Needs Follow-up
+476,S0477,92,84,66,12,5,average,Needs Follow-up
+477,S0478,53,99,77,8,5,positive,Balanced
+478,S0479,53,57,98,3,0,average,Balanced
+479,S0480,91,68,50,16,2,average,Needs Follow-up
+480,S0481,81,52,79,10,4,average,Needs Follow-up
+481,S0482,55,65,54,0,2,positive,Balanced
+482,S0483,56,71,74,2,1,positive,Balanced
+483,S0484,91,100,51,3,4,negative,Balanced
+484,S0485,67,75,42,10,1,positive,Balanced
+485,S0486,45,81,94,8,1,positive,Balanced
+486,S0487,71,94,98,1,3,positive,Ideal Model
+487,S0488,91,76,98,11,5,positive,Balanced
+488,S0489,49,47,84,0,3,positive,Balanced
+489,S0490,77,61,74,1,1,positive,Balanced
+490,S0491,50,61,61,11,2,positive,Needs Follow-up
+491,S0492,100,47,50,4,5,negative,Needs Follow-up
+492,S0493,71,97,79,18,4,positive,Balanced
+493,S0494,49,51,90,8,0,positive,Balanced
+494,S0495,89,70,65,1,3,average,Balanced
+495,S0496,51,57,63,2,1,positive,Balanced
+496,S0497,84,70,66,14,4,negative,Needs Follow-up
+497,S0498,93,66,93,9,5,negative,Balanced
+498,S0499,81,65,47,17,1,positive,Needs Follow-up
+499,S0500,57,67,98,16,1,negative,Needs Follow-up
+500,S0501,49,56,59,11,1,positive,Needs Follow-up
+501,S0502,90,81,79,14,4,average,Balanced
+502,S0503,42,54,86,15,3,average,Needs Follow-up
+503,S0504,56,42,87,13,4,negative,Needs Follow-up
+504,S0505,70,73,89,3,3,average,Balanced
+505,S0506,100,45,56,11,0,positive,Balanced
+506,S0507,82,64,56,20,1,average,Needs Follow-up
+507,S0508,92,78,64,3,4,negative,Balanced
+508,S0509,50,61,72,11,3,negative,Needs Follow-up
+509,S0510,43,56,73,10,0,average,Needs Follow-up
+510,S0511,84,84,49,9,1,negative,Needs Follow-up
+511,S0512,99,72,72,6,5,average,Balanced
+512,S0513,68,56,51,4,3,positive,Balanced
+513,S0514,53,56,49,8,5,negative,Needs Follow-up
+514,S0515,56,44,55,19,5,negative,Needs Follow-up
+515,S0516,79,73,73,10,4,negative,Needs Follow-up
+516,S0517,43,97,79,10,3,negative,Needs Follow-up
+517,S0518,79,80,67,7,3,positive,Balanced
+518,S0519,60,55,66,2,0,positive,Balanced
+519,S0520,40,58,91,11,1,negative,Needs Follow-up
+520,S0521,85,65,86,10,2,negative,Balanced
+521,S0522,85,41,94,14,4,negative,Needs Follow-up
+522,S0523,95,51,84,17,5,average,Needs Follow-up
+523,S0524,54,40,41,18,0,average,Needs Follow-up
+524,S0525,59,93,72,8,5,average,Needs Follow-up
+525,S0526,96,47,61,15,5,positive,Needs Follow-up
+526,S0527,73,40,81,1,0,negative,Balanced
+527,S0528,84,68,61,12,3,average,Needs Follow-up
+528,S0529,80,49,45,1,1,average,Needs Follow-up
+529,S0530,54,99,47,11,1,average,Needs Follow-up
+530,S0531,89,59,80,13,0,negative,Balanced
+531,S0532,66,51,50,20,1,negative,Needs Follow-up
+532,S0533,95,57,41,2,1,average,Balanced
+533,S0534,40,53,74,20,3,average,Needs Follow-up
+534,S0535,47,97,51,10,1,negative,Needs Follow-up
+535,S0536,64,50,55,19,0,positive,Balanced
+536,S0537,43,62,46,18,2,negative,Needs Follow-up
+537,S0538,70,45,80,16,4,positive,Needs Follow-up
+538,S0539,81,44,57,12,5,positive,Needs Follow-up
+539,S0540,62,70,42,15,1,average,Needs Follow-up
+540,S0541,91,76,50,0,4,negative,Needs Follow-up
+541,S0542,63,56,58,19,1,average,Needs Follow-up
+542,S0543,47,89,76,5,2,negative,Balanced
+543,S0544,43,72,46,20,1,positive,Needs Follow-up
+544,S0545,44,85,50,15,2,positive,Needs Follow-up
+545,S0546,93,96,73,7,3,average,Balanced
+546,S0547,88,53,44,20,3,average,Needs Follow-up
+547,S0548,78,58,58,20,3,average,Needs Follow-up
+548,S0549,55,62,50,9,0,positive,Balanced
+549,S0550,69,84,54,4,5,average,Balanced
+550,S0551,77,81,45,2,0,average,Balanced
+551,S0552,76,73,88,18,1,positive,Balanced
+552,S0553,46,53,48,20,4,negative,Needs Follow-up
+553,S0554,67,75,80,7,1,negative,Needs Follow-up
+554,S0555,74,50,43,18,5,negative,Needs Follow-up
+555,S0556,77,87,40,0,1,positive,Balanced
+556,S0557,73,76,49,0,5,positive,Balanced
+557,S0558,58,81,93,7,1,positive,Balanced
+558,S0559,72,81,85,18,4,average,Needs Follow-up
+559,S0560,48,84,80,19,5,average,Needs Follow-up
+560,S0561,79,82,66,14,1,average,Needs Follow-up
+561,S0562,46,53,64,7,0,positive,Balanced
+562,S0563,47,98,47,14,4,average,Needs Follow-up
+563,S0564,86,82,41,17,0,average,Needs Follow-up
+564,S0565,73,60,70,3,2,positive,Balanced
+565,S0566,93,41,47,10,1,negative,Needs Follow-up
+566,S0567,40,46,43,6,2,negative,Needs Follow-up
+567,S0568,100,56,83,18,2,positive,Balanced
+568,S0569,94,56,94,9,2,average,Balanced
+569,S0570,83,82,92,12,3,positive,Balanced
+570,S0571,73,69,42,8,5,negative,Needs Follow-up
+571,S0572,65,49,65,2,3,positive,Balanced
+572,S0573,50,57,50,16,5,positive,Needs Follow-up
+573,S0574,61,100,58,13,0,average,Balanced
+574,S0575,60,71,100,11,5,positive,Balanced
+575,S0576,51,73,45,10,5,average,Needs Follow-up
+576,S0577,55,66,93,3,3,negative,Needs Follow-up
+577,S0578,89,92,46,13,2,negative,Needs Follow-up
+578,S0579,42,73,98,3,2,negative,Balanced
+579,S0580,87,100,92,18,3,average,Balanced
+580,S0581,41,43,43,5,1,average,Needs Follow-up
+581,S0582,95,66,81,0,2,positive,Ideal Model
+582,S0583,99,45,65,13,3,positive,Needs Follow-up
+583,S0584,60,47,49,12,2,positive,Needs Follow-up
+584,S0585,69,69,92,3,0,positive,Ideal Model
+585,S0586,52,82,44,2,5,average,Needs Follow-up
+586,S0587,65,70,83,16,1,average,Needs Follow-up
+587,S0588,40,56,77,9,4,positive,Needs Follow-up
+588,S0589,54,73,58,9,3,positive,Needs Follow-up
+589,S0590,96,54,81,7,2,average,Balanced
+590,S0591,90,84,81,20,0,positive,Balanced
+591,S0592,90,52,45,8,5,average,Needs Follow-up
+592,S0593,51,41,96,13,0,negative,Needs Follow-up
+593,S0594,51,79,99,12,1,negative,Needs Follow-up
+594,S0595,41,91,95,0,1,average,Balanced
+595,S0596,58,69,82,15,5,positive,Balanced
+596,S0597,86,91,96,7,1,positive,Ideal Model
+597,S0598,51,59,78,16,2,negative,Needs Follow-up
+598,S0599,93,85,93,6,4,positive,Balanced
+599,S0600,44,92,76,13,0,average,Balanced
+600,S0601,62,82,79,13,4,positive,Balanced
+601,S0602,73,76,93,16,3,positive,Balanced
+602,S0603,57,84,72,12,1,negative,Needs Follow-up
+603,S0604,51,45,41,6,2,average,Needs Follow-up
+604,S0605,62,91,86,5,2,positive,Ideal Model
+605,S0606,73,59,79,17,3,average,Needs Follow-up
+606,S0607,66,97,74,11,5,negative,Needs Follow-up
+607,S0608,58,94,48,12,2,positive,Balanced
+608,S0609,90,82,77,6,1,negative,Balanced
+609,S0610,91,87,79,13,3,negative,Needs Follow-up
+610,S0611,42,68,43,11,1,positive,Needs Follow-up
+611,S0612,80,96,42,6,0,positive,Balanced
+612,S0613,45,88,75,6,4,negative,Needs Follow-up
+613,S0614,53,47,46,9,2,negative,Needs Follow-up
+614,S0615,94,44,51,11,0,negative,Needs Follow-up
+615,S0616,46,45,76,11,3,positive,Needs Follow-up
+616,S0617,53,41,74,7,4,negative,Needs Follow-up
+617,S0618,43,51,97,16,3,positive,Needs Follow-up
+618,S0619,56,74,74,10,5,positive,Balanced
+619,S0620,86,75,89,14,3,negative,Needs Follow-up
+620,S0621,69,87,73,15,1,average,Balanced
+621,S0622,91,77,82,6,0,average,Balanced
+622,S0623,51,48,75,1,5,average,Needs Follow-up
+623,S0624,95,60,43,15,3,average,Needs Follow-up
+624,S0625,44,68,55,16,1,negative,Needs Follow-up
+625,S0626,92,52,68,20,4,negative,Needs Follow-up
+626,S0627,83,61,66,2,4,positive,Balanced
+627,S0628,92,92,90,6,5,average,Balanced
+628,S0629,52,45,73,8,2,average,Needs Follow-up
+629,S0630,95,75,41,1,3,negative,Needs Follow-up
+630,S0631,58,82,97,2,3,positive,Balanced
+631,S0632,86,58,70,10,0,negative,Balanced
+632,S0633,71,40,70,9,1,negative,Needs Follow-up
+633,S0634,99,72,42,6,0,negative,Needs Follow-up
+634,S0635,54,69,65,19,2,positive,Needs Follow-up
+635,S0636,41,55,94,20,4,positive,Needs Follow-up
+636,S0637,70,46,63,3,0,positive,Balanced
+637,S0638,97,60,41,6,1,positive,Balanced
+638,S0639,78,99,83,14,0,positive,Ideal Model
+639,S0640,43,75,77,19,3,negative,Needs Follow-up
+640,S0641,98,73,54,16,5,positive,Balanced
+641,S0642,49,69,83,6,2,negative,Needs Follow-up
+642,S0643,59,74,90,18,2,positive,Balanced
+643,S0644,40,64,55,10,3,average,Needs Follow-up
+644,S0645,51,100,58,13,2,average,Needs Follow-up
+645,S0646,84,94,84,8,4,average,Balanced
+646,S0647,79,64,56,16,0,positive,Balanced
+647,S0648,68,41,69,14,2,positive,Needs Follow-up
+648,S0649,63,95,53,9,5,negative,Needs Follow-up
+649,S0650,90,80,68,16,5,average,Needs Follow-up
+650,S0651,78,99,79,9,1,average,Balanced
+651,S0652,92,53,61,0,4,average,Balanced
+652,S0653,78,59,53,2,5,positive,Balanced
+653,S0654,68,63,81,11,3,average,Needs Follow-up
+654,S0655,83,74,65,8,5,negative,Needs Follow-up
+655,S0656,91,84,42,8,3,negative,Needs Follow-up
+656,S0657,80,52,43,20,5,positive,Needs Follow-up
+657,S0658,55,76,89,14,4,positive,Balanced
+658,S0659,78,96,75,3,4,positive,Balanced
+659,S0660,55,63,76,10,2,average,Needs Follow-up
+660,S0661,70,58,57,7,1,average,Needs Follow-up
+661,S0662,62,81,67,19,5,average,Needs Follow-up
+662,S0663,41,89,54,1,0,average,Balanced
+663,S0664,51,85,76,17,4,positive,Balanced
+664,S0665,80,51,52,20,2,positive,Needs Follow-up
+665,S0666,92,65,92,0,1,negative,Balanced
+666,S0667,89,68,50,4,3,average,Balanced
+667,S0668,95,69,68,6,5,positive,Balanced
+668,S0669,66,88,81,16,4,average,Needs Follow-up
+669,S0670,40,59,95,19,5,negative,Needs Follow-up
+670,S0671,58,96,70,13,4,average,Needs Follow-up
+671,S0672,44,90,95,4,1,positive,Balanced
+672,S0673,96,92,43,5,4,average,Balanced
+673,S0674,82,90,88,15,5,average,Balanced
+674,S0675,50,62,79,11,5,negative,Needs Follow-up
+675,S0676,72,56,81,10,4,positive,Balanced
+676,S0677,71,85,56,0,0,positive,Balanced
+677,S0678,79,89,50,7,4,average,Needs Follow-up
+678,S0679,94,51,86,11,3,positive,Balanced
+679,S0680,83,96,41,4,1,positive,Balanced
+680,S0681,47,69,50,20,1,negative,Needs Follow-up
+681,S0682,71,47,80,0,5,negative,Needs Follow-up
+682,S0683,50,75,67,12,3,negative,Needs Follow-up
+683,S0684,67,80,85,19,4,average,Needs Follow-up
+684,S0685,73,46,95,20,5,average,Needs Follow-up
+685,S0686,87,74,56,0,0,negative,Balanced
+686,S0687,65,98,54,11,5,negative,Needs Follow-up
+687,S0688,90,97,56,10,5,negative,Needs Follow-up
+688,S0689,51,43,77,1,4,negative,Needs Follow-up
+689,S0690,97,82,95,2,4,positive,Ideal Model
+690,S0691,78,63,92,12,2,positive,Balanced
+691,S0692,79,90,94,11,1,average,Balanced
+692,S0693,98,71,50,8,5,negative,Needs Follow-up
+693,S0694,72,96,98,16,5,positive,Balanced
+694,S0695,42,62,42,0,2,negative,Needs Follow-up
+695,S0696,51,48,74,19,5,positive,Needs Follow-up
+696,S0697,59,94,47,19,2,negative,Needs Follow-up
+697,S0698,85,87,47,15,4,average,Needs Follow-up
+698,S0699,91,58,88,20,1,average,Balanced
+699,S0700,45,71,77,1,5,positive,Balanced
+700,S0701,82,46,65,10,1,positive,Balanced
+701,S0702,66,89,79,15,3,positive,Balanced
+702,S0703,41,87,82,11,5,average,Needs Follow-up
+703,S0704,45,100,93,5,2,average,Balanced
+704,S0705,62,86,81,15,1,negative,Needs Follow-up
+705,S0706,95,80,85,10,2,average,Balanced
+706,S0707,98,92,44,11,2,positive,Balanced
+707,S0708,44,50,99,0,0,negative,Balanced
+708,S0709,76,89,41,0,2,average,Balanced
+709,S0710,44,40,45,1,5,positive,Needs Follow-up
+710,S0711,71,44,51,4,0,negative,Needs Follow-up
+711,S0712,53,88,100,4,0,negative,Balanced
+712,S0713,99,49,65,15,1,average,Needs Follow-up
+713,S0714,40,42,49,18,3,positive,Needs Follow-up
+714,S0715,69,73,79,8,1,positive,Balanced
+715,S0716,53,56,80,19,1,positive,Balanced
+716,S0717,44,92,50,20,2,average,Needs Follow-up
+717,S0718,77,48,68,19,2,negative,Needs Follow-up
+718,S0719,64,63,100,10,5,average,Balanced
+719,S0720,93,75,52,17,0,average,Balanced
+720,S0721,54,50,76,6,4,negative,Needs Follow-up
+721,S0722,59,51,100,9,4,positive,Balanced
+722,S0723,78,56,66,19,1,negative,Needs Follow-up
+723,S0724,75,61,41,20,0,average,Needs Follow-up
+724,S0725,42,93,47,5,4,average,Needs Follow-up
+725,S0726,50,50,57,2,3,average,Needs Follow-up
+726,S0727,75,62,81,20,4,negative,Needs Follow-up
+727,S0728,44,97,88,15,0,negative,Balanced
+728,S0729,92,85,46,11,1,positive,Balanced
+729,S0730,90,85,97,19,1,average,Balanced
+730,S0731,96,53,57,3,2,positive,Balanced
+731,S0732,46,62,78,4,5,positive,Balanced
+732,S0733,77,91,70,4,1,average,Balanced
+733,S0734,76,100,99,9,3,negative,Balanced
+734,S0735,93,60,84,15,0,positive,Balanced
+735,S0736,68,79,89,11,1,negative,Needs Follow-up
+736,S0737,79,43,82,5,2,negative,Balanced
+737,S0738,79,48,73,1,3,average,Balanced
+738,S0739,57,88,50,17,3,negative,Needs Follow-up
+739,S0740,98,78,88,9,2,average,Balanced
+740,S0741,42,71,50,3,3,negative,Needs Follow-up
+741,S0742,55,68,68,6,2,negative,Needs Follow-up
+742,S0743,50,51,90,5,5,average,Needs Follow-up
+743,S0744,81,57,56,15,5,negative,Needs Follow-up
+744,S0745,99,80,79,14,0,positive,Ideal Model
+745,S0746,90,91,49,1,0,average,Balanced
+746,S0747,50,50,74,0,0,positive,Balanced
+747,S0748,45,70,73,15,0,negative,Needs Follow-up
+748,S0749,58,100,77,17,3,positive,Balanced
+749,S0750,56,53,79,0,5,average,Needs Follow-up
+750,S0751,47,100,70,11,1,positive,Balanced
+751,S0752,43,53,70,19,2,average,Needs Follow-up
+752,S0753,64,100,99,20,0,negative,Balanced
+753,S0754,48,69,53,8,5,average,Needs Follow-up
+754,S0755,81,95,47,5,0,average,Balanced
+755,S0756,69,51,75,14,5,average,Needs Follow-up
+756,S0757,59,43,56,20,3,positive,Needs Follow-up
+757,S0758,96,81,60,1,1,negative,Balanced
+758,S0759,55,69,41,13,3,positive,Needs Follow-up
+759,S0760,89,78,62,20,1,negative,Needs Follow-up
+760,S0761,61,51,63,9,4,negative,Needs Follow-up
+761,S0762,58,44,83,3,3,positive,Balanced
+762,S0763,69,77,84,16,3,average,Needs Follow-up
+763,S0764,97,94,74,1,4,average,Balanced
+764,S0765,72,64,57,4,0,average,Balanced
+765,S0766,96,85,49,13,3,positive,Balanced
+766,S0767,89,86,79,9,5,average,Balanced
+767,S0768,92,81,57,1,1,negative,Balanced
+768,S0769,49,70,47,12,4,negative,Needs Follow-up
+769,S0770,87,62,55,14,1,negative,Needs Follow-up
+770,S0771,41,93,86,18,5,positive,Balanced
+771,S0772,40,53,82,4,0,positive,Balanced
+772,S0773,71,100,84,7,2,negative,Balanced
+773,S0774,85,100,75,6,1,negative,Balanced
+774,S0775,99,46,91,18,2,positive,Balanced
+775,S0776,75,96,93,0,4,positive,Ideal Model
+776,S0777,68,47,99,11,0,negative,Needs Follow-up
+777,S0778,94,73,72,17,1,negative,Needs Follow-up
+778,S0779,66,96,94,5,2,positive,Ideal Model
+779,S0780,95,68,46,9,1,negative,Needs Follow-up
+780,S0781,76,60,59,9,2,negative,Needs Follow-up
+781,S0782,65,64,51,14,0,negative,Needs Follow-up
+782,S0783,69,42,99,14,5,negative,Needs Follow-up
+783,S0784,60,45,97,10,0,average,Balanced
+784,S0785,66,75,80,8,3,average,Needs Follow-up
+785,S0786,84,51,49,19,5,positive,Needs Follow-up
+786,S0787,68,88,73,13,2,positive,Balanced
+787,S0788,47,75,58,20,3,positive,Needs Follow-up
+788,S0789,99,97,51,14,1,negative,Needs Follow-up
+789,S0790,92,96,74,10,2,positive,Balanced
+790,S0791,65,74,40,20,5,average,Needs Follow-up
+791,S0792,63,83,60,16,5,negative,Needs Follow-up
+792,S0793,63,74,51,4,0,average,Balanced
+793,S0794,56,98,89,10,2,positive,Balanced
+794,S0795,82,99,90,19,5,negative,Balanced
+795,S0796,60,89,74,6,2,average,Balanced
+796,S0797,82,98,66,7,3,negative,Needs Follow-up
+797,S0798,96,52,47,6,1,average,Needs Follow-up
+798,S0799,47,66,86,3,2,positive,Balanced
+799,S0800,96,67,58,14,4,negative,Needs Follow-up
+800,S0801,84,71,59,15,3,negative,Needs Follow-up
+801,S0802,72,48,92,18,0,negative,Needs Follow-up
+802,S0803,62,70,75,2,1,average,Balanced
+803,S0804,50,40,62,1,0,negative,Needs Follow-up
+804,S0805,53,95,95,1,4,average,Balanced
+805,S0806,86,86,76,5,5,positive,Balanced
+806,S0807,53,83,50,0,3,negative,Needs Follow-up
+807,S0808,54,99,58,19,3,negative,Needs Follow-up
+808,S0809,64,73,62,6,2,average,Needs Follow-up
+809,S0810,48,100,52,20,3,negative,Needs Follow-up
+810,S0811,91,93,93,0,0,average,Ideal Model
+811,S0812,54,100,41,9,5,negative,Needs Follow-up
+812,S0813,99,97,96,7,0,negative,Balanced
+813,S0814,91,67,82,4,3,negative,Balanced
+814,S0815,71,72,41,6,0,average,Needs Follow-up
+815,S0816,52,57,79,8,5,positive,Balanced
+816,S0817,82,56,73,18,5,positive,Balanced
+817,S0818,50,99,63,10,4,negative,Needs Follow-up
+818,S0819,56,85,86,7,2,positive,Balanced
+819,S0820,69,91,96,5,2,positive,Ideal Model
+820,S0821,95,93,53,6,5,average,Balanced
+821,S0822,75,91,59,3,1,negative,Balanced
+822,S0823,51,99,54,13,2,average,Needs Follow-up
+823,S0824,42,76,43,4,1,negative,Needs Follow-up
+824,S0825,98,63,53,13,0,average,Balanced
+825,S0826,81,53,40,14,3,positive,Needs Follow-up
+826,S0827,42,91,90,7,5,negative,Needs Follow-up
+827,S0828,85,70,73,2,4,negative,Balanced
+828,S0829,79,62,67,20,1,negative,Needs Follow-up
+829,S0830,54,96,61,7,2,average,Needs Follow-up
+830,S0831,89,46,83,3,3,negative,Needs Follow-up
+831,S0832,82,92,78,1,0,average,Ideal Model
+832,S0833,63,63,60,9,4,average,Needs Follow-up
+833,S0834,100,89,59,3,4,negative,Balanced
+834,S0835,53,98,61,13,4,average,Needs Follow-up
+835,S0836,72,98,49,11,2,positive,Balanced
+836,S0837,89,68,94,1,2,positive,Ideal Model
+837,S0838,98,63,52,15,0,negative,Needs Follow-up
+838,S0839,46,41,79,18,2,average,Needs Follow-up
+839,S0840,63,50,57,11,1,positive,Needs Follow-up
+840,S0841,72,73,79,15,0,negative,Balanced
+841,S0842,77,98,92,16,1,positive,Balanced
+842,S0843,97,98,83,7,5,positive,Balanced
+843,S0844,50,75,87,10,5,negative,Needs Follow-up
+844,S0845,76,82,69,18,5,average,Needs Follow-up
+845,S0846,40,76,53,4,3,positive,Balanced
+846,S0847,80,56,50,17,1,negative,Needs Follow-up
+847,S0848,67,64,58,18,5,average,Needs Follow-up
+848,S0849,94,40,74,8,1,negative,Needs Follow-up
+849,S0850,97,51,84,11,4,average,Needs Follow-up
+850,S0851,70,54,83,4,2,negative,Balanced
+851,S0852,42,47,94,3,1,average,Balanced
+852,S0853,43,62,76,1,0,average,Balanced
+853,S0854,87,95,57,16,1,positive,Balanced
+854,S0855,82,100,75,3,5,negative,Balanced
+855,S0856,83,67,44,5,0,average,Balanced
+856,S0857,54,41,77,20,1,positive,Needs Follow-up
+857,S0858,86,82,52,11,1,average,Needs Follow-up
+858,S0859,64,70,47,8,5,negative,Needs Follow-up
+859,S0860,99,97,63,14,5,positive,Balanced
+860,S0861,88,40,57,15,0,negative,Needs Follow-up
+861,S0862,97,100,100,15,5,positive,Balanced
+862,S0863,47,52,79,15,5,positive,Needs Follow-up
+863,S0864,54,94,98,6,0,average,Balanced
+864,S0865,58,66,42,18,1,positive,Needs Follow-up
+865,S0866,67,66,64,5,3,positive,Balanced
+866,S0867,98,62,81,9,2,negative,Balanced
+867,S0868,45,45,90,3,4,negative,Needs Follow-up
+868,S0869,53,45,57,13,2,positive,Needs Follow-up
+869,S0870,46,52,77,8,2,negative,Needs Follow-up
+870,S0871,87,73,44,11,2,positive,Balanced
+871,S0872,42,96,57,4,3,negative,Needs Follow-up
+872,S0873,66,47,93,4,0,negative,Balanced
+873,S0874,75,68,79,15,3,average,Needs Follow-up
+874,S0875,96,79,40,15,0,positive,Balanced
+875,S0876,67,70,70,14,4,positive,Needs Follow-up
+876,S0877,93,86,50,2,1,average,Balanced
+877,S0878,53,55,99,8,5,average,Needs Follow-up
+878,S0879,81,100,85,5,0,positive,Ideal Model
+879,S0880,98,75,66,19,1,negative,Needs Follow-up
+880,S0881,76,89,96,9,1,positive,Balanced
+881,S0882,79,53,72,18,5,average,Needs Follow-up
+882,S0883,85,54,73,18,1,positive,Balanced
+883,S0884,100,97,88,3,4,negative,Balanced
+884,S0885,95,84,52,3,5,positive,Balanced
+885,S0886,45,55,77,17,5,negative,Needs Follow-up
+886,S0887,81,49,96,11,5,negative,Needs Follow-up
+887,S0888,72,61,74,11,3,negative,Needs Follow-up
+888,S0889,55,66,82,14,2,negative,Needs Follow-up
+889,S0890,58,66,65,5,1,average,Balanced
+890,S0891,40,41,71,7,0,negative,Needs Follow-up
+891,S0892,67,40,63,7,1,negative,Needs Follow-up
+892,S0893,48,95,58,3,0,positive,Balanced
+893,S0894,68,68,85,18,0,positive,Balanced
+894,S0895,96,49,65,9,5,negative,Needs Follow-up
+895,S0896,89,80,55,6,2,negative,Needs Follow-up
+896,S0897,69,52,73,1,0,average,Balanced
+897,S0898,83,93,96,8,4,positive,Balanced
+898,S0899,41,92,96,13,0,average,Balanced
+899,S0900,50,54,83,17,3,negative,Needs Follow-up
+900,S0901,91,62,80,20,2,negative,Needs Follow-up
+901,S0902,76,49,45,0,1,average,Needs Follow-up
+902,S0903,54,95,45,16,4,negative,Needs Follow-up
+903,S0904,54,51,63,12,4,average,Needs Follow-up
+904,S0905,78,74,88,11,1,average,Balanced
+905,S0906,58,86,77,3,1,average,Balanced
+906,S0907,75,56,70,19,2,negative,Needs Follow-up
+907,S0908,45,59,42,5,5,negative,Needs Follow-up
+908,S0909,53,62,76,10,3,negative,Needs Follow-up
+909,S0910,73,85,80,0,4,positive,Balanced
+910,S0911,68,99,78,15,3,average,Needs Follow-up
+911,S0912,53,79,92,17,2,negative,Needs Follow-up
+912,S0913,62,91,60,9,5,average,Needs Follow-up
+913,S0914,68,56,84,5,0,negative,Balanced
+914,S0915,90,46,83,1,5,positive,Balanced
+915,S0916,57,79,81,5,1,average,Balanced
+916,S0917,99,86,86,10,1,negative,Balanced
+917,S0918,49,92,94,6,3,positive,Balanced
+918,S0919,91,42,88,4,3,positive,Balanced
+919,S0920,50,97,48,7,2,negative,Needs Follow-up
+920,S0921,54,64,83,12,5,positive,Needs Follow-up
+921,S0922,60,95,73,12,4,positive,Balanced
+922,S0923,64,49,99,8,4,negative,Needs Follow-up
+923,S0924,100,59,89,19,3,positive,Balanced
+924,S0925,43,70,96,11,3,negative,Needs Follow-up
+925,S0926,73,41,59,8,5,average,Needs Follow-up
+926,S0927,92,51,65,16,5,negative,Needs Follow-up
+927,S0928,73,66,97,20,1,positive,Balanced
+928,S0929,52,96,66,5,1,positive,Balanced
+929,S0930,62,44,56,6,2,negative,Needs Follow-up
+930,S0931,54,40,44,8,1,negative,Needs Follow-up
+931,S0932,99,96,55,0,2,positive,Ideal Model
+932,S0933,86,64,58,6,4,average,Needs Follow-up
+933,S0934,61,78,63,17,4,average,Needs Follow-up
+934,S0935,44,91,90,5,4,positive,Balanced
+935,S0936,51,42,42,17,2,negative,Needs Follow-up
+936,S0937,56,57,55,0,0,positive,Balanced
+937,S0938,63,90,84,9,2,negative,Balanced
+938,S0939,56,66,81,10,0,positive,Balanced
+939,S0940,73,54,78,13,4,average,Needs Follow-up
+940,S0941,45,68,48,0,0,positive,Balanced
+941,S0942,65,89,50,4,5,negative,Needs Follow-up
+942,S0943,50,54,97,10,3,positive,Balanced
+943,S0944,62,45,76,5,2,negative,Needs Follow-up
+944,S0945,47,52,86,6,0,negative,Needs Follow-up
+945,S0946,52,67,71,5,5,negative,Needs Follow-up
+946,S0947,66,53,85,17,1,average,Needs Follow-up
+947,S0948,73,92,78,17,3,average,Needs Follow-up
+948,S0949,94,86,85,12,2,average,Balanced
+949,S0950,54,46,69,7,1,negative,Needs Follow-up
+950,S0951,65,40,86,16,4,negative,Needs Follow-up
+951,S0952,56,62,57,10,1,average,Needs Follow-up
+952,S0953,76,93,46,8,5,negative,Needs Follow-up
+953,S0954,68,66,73,5,1,positive,Balanced
+954,S0955,53,65,82,4,4,average,Balanced
+955,S0956,53,47,50,15,3,average,Needs Follow-up
+956,S0957,74,66,62,19,2,positive,Balanced
+957,S0958,65,97,94,1,3,positive,Ideal Model
+958,S0959,42,60,95,11,4,average,Needs Follow-up
+959,S0960,90,94,49,6,2,negative,Needs Follow-up
+960,S0961,85,42,95,20,4,negative,Needs Follow-up
+961,S0962,75,51,78,5,1,average,Balanced
+962,S0963,62,91,83,2,5,positive,Balanced
+963,S0964,75,97,54,12,5,positive,Balanced
+964,S0965,50,63,97,16,1,average,Needs Follow-up
+965,S0966,70,46,89,1,5,average,Balanced
+966,S0967,85,89,92,6,5,negative,Balanced
+967,S0968,74,97,59,7,2,average,Balanced
+968,S0969,89,47,41,17,3,negative,Needs Follow-up
+969,S0970,79,45,40,8,3,average,Needs Follow-up
+970,S0971,41,58,64,20,3,positive,Needs Follow-up
+971,S0972,58,79,94,1,1,negative,Balanced
+972,S0973,67,75,58,15,0,positive,Balanced
+973,S0974,66,55,72,15,3,positive,Needs Follow-up
+974,S0975,98,41,74,10,0,average,Balanced
+975,S0976,91,57,59,7,4,average,Needs Follow-up
+976,S0977,47,52,83,2,2,average,Balanced
+977,S0978,80,47,86,13,0,negative,Needs Follow-up
+978,S0979,87,42,89,12,4,negative,Needs Follow-up
+979,S0980,94,83,45,11,3,average,Needs Follow-up
+980,S0981,99,90,64,20,2,average,Balanced
+981,S0982,57,96,94,9,0,positive,Ideal Model
+982,S0983,76,90,76,14,3,negative,Needs Follow-up
+983,S0984,84,57,57,5,3,negative,Needs Follow-up
+984,S0985,55,50,63,4,3,negative,Needs Follow-up
+985,S0986,59,42,76,6,3,average,Needs Follow-up
+986,S0987,66,60,78,0,3,negative,Needs Follow-up
+987,S0988,77,95,91,9,3,average,Balanced
+988,S0989,81,83,58,1,3,positive,Balanced
+989,S0990,93,100,45,8,1,negative,Needs Follow-up
+990,S0991,69,95,48,12,1,average,Needs Follow-up
+991,S0992,51,100,77,18,3,average,Needs Follow-up
+992,S0993,55,92,71,15,4,positive,Balanced
+993,S0994,85,85,73,1,0,negative,Balanced
+994,S0995,80,99,45,2,4,positive,Balanced
+995,S0996,99,75,49,2,3,average,Balanced
+996,S0997,72,92,56,15,0,average,Balanced
+997,S0998,67,51,47,10,2,negative,Needs Follow-up
+998,S0999,80,71,94,9,3,average,Balanced
+999,S1000,40,56,56,17,4,average,Needs Follow-up
